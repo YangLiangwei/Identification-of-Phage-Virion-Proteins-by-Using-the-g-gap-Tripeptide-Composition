@@ -4,7 +4,10 @@ https://www.researchgate.net/publication/327579458_Identification_of_phage_virio
 
 @article{Yang2019Identification,
 title={Identification of Phage Virion Proteins by Using the g-gap Tripeptide Composition},
-author={Yang, Liangwei and Gao, Hui and Liu, Zhen and Tang, Lixia},
+author={Yang, Liangwei and Gao, Hui and Liu, Zhen and Tang, Lixia},14
+volume={14},
+number={4},
+pages={332-339},
 journal={Letters in Organic Chemistry},
 year={2019},
 }
